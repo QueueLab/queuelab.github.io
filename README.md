@@ -1,18 +1,14 @@
-# QCX - Multi-Agent Location Intelligence Platform
+#QueueLab
 
-QCX is a Location intelligence platform developed by QCX part of queuelab. It leverages advanced generative artificial intelligence technology to provide real-time insights and analytics about our planet. Whether you're an explorer, traveler or researcher QCX offers a comprehensive suite of tools to help you explore, visualize and perform automation tasks. 
+# Artificial General Intelligence Applied research laboratory on nature and computation. 
 
-## Features
+Artificial General intelligence is a system describing the interoperation of increasingly heterogenous data points without compression. 
 
-- **Real-time Data Analysis**: Get up-to-date information on various environmental parameters.
-- **Advanced Visualization Tools**: Create stunning visualizations to represent complex data.
-- **User-friendly Interface**: Easy to navigate and use, even for non-experts.
-- **Customizable Dashboards**: Tailor the platform to meet your specific needs.
+## Research 
 
-## About QCX
+- **[Fluidity index](https://arxiv.org/abs/2510.20636v1): Next-Generation Super-Intelligence benchmarks: [Demo](https://fluid-phi.vercel.app/) 
+- **Fluidity index Applications in New knowledge creation. [Fund us](https://paypal.me/queuenorth) 
 
-QCX is a leading technology company specializing in AI and machine learning solutions. Our mission is to harness the power of AI to solve some of the world's most pressing challenges. With a team of experts in various fields, we are committed to delivering innovative and impactful solutions.
+[Lab](https://discord.gg/NqGY9EWjWj) count: 211 
 
-## GitHub Repository
 
-For more information, visit our [GitHub repository](https://github.com/queuelab).
