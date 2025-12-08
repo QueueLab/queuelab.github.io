@@ -11,6 +11,6 @@ Artificial General intelligence is a system describing the interoperation of inc
 
 [Lab](https://discord.gg/NqGY9EWjWj) count: 211 
 
-[Official White Paper](https://docsend.com/view/bc46fvfr4z2ga2aw) count: 6666
+[Official White Paper](https://docsend.com/view/bc46fvfr4z2ga2aw) count: 2,888
 
 
